@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1054401702029",
+    "project_id": "noondemo"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1054401702029:android:2ac296b65e4e0003",
+        "android_client_info": {
+          "package_name": "com.aditya.noondemo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1054401702029-jgj3ccrmb8rvba81lgvr1frf1egt648q.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1054401702029-v0vqlrcc3u94dfj5mhvi32ie3opbbii7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.aditya.noondemo",
+            "certificate_hash": "4b6322813a8283d1ea76d892550526c4b814d25c"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCw-HPCgYhXt2dC0--1J6nGjNjKplK4DtI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
